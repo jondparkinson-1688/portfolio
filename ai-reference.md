@@ -124,7 +124,7 @@ The [About page](https://jonparkinson.work/about) describes Jon’s career and h
 
 ## What he’s looking for
 
-Jon is interested in senior and staff-level product design roles where he can shape direction, lead work across disciplines and stay hands-on with the product. He’s drawn to design-led teams that care about the details and build things people use in everyday life. He especially likes companion products that help people do something in the real world, like cook, explore or get out of the house. He’s based in Margate and open to UK remote and London hybrid roles. Check current availability with Jon directly.
+Jon is looking for Staff Product Designer roles. He wants to grow his scope as an individual contributor, shaping product direction and leading work across disciplines while staying hands-on and close to the craft. He’s drawn to design-led teams that care about the details and build things people use in everyday life. He especially likes companion products that help people do something in the real world, like cook, explore or get out of the house. He’s based in Margate and open to UK remote and London hybrid roles. Check current availability with Jon directly.
 
 ## Education and creative background
 
