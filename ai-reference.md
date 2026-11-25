@@ -34,6 +34,7 @@ His work ranges from designing patterns for millions of people in high-stress si
 | Designing AI workflows with human review | [Shuck It in detail](#shuck-it-in-detail) below |
 | Design systems enforced in code, or design-to-engineering handoff | [Shuck It in detail](#shuck-it-in-detail) below |
 | Facilitation, risk planning or sustainable team performance | [Pre-mortems](https://jonparkinson.work/work/pre-mortems) and [Sustainable impact](https://jonparkinson.work/work/sustainable-impact) |
+| Ambiguity, constraints, setbacks, growth, feedback and more | [Behavioural examples](#behavioural-examples) |
 
 ## What he does
 
@@ -121,6 +122,61 @@ Shuck It is Jon’s own product. He designed it, made every product decision and
 | Earlier work | Visual storytelling for Intel’s Conceptual Computing team, brand and customer touchpoints at Albam Clothing, and embroidery design at Alexander McQueen. |
 
 The [About page](https://jonparkinson.work/about) describes Jon’s career and how he works.
+
+## Behavioural examples
+
+| Category | What Jon demonstrated | Example |
+| --- | --- | --- |
+| Ambiguity | Built enough structure to keep two-week sprints moving while exploring bigger bets and involving stakeholders early. | [AI-native pod at Meta](#ai-native-pod-at-meta) |
+| Constraints | Found an affordable way to show trader performance and defined what would justify further investment. | [Stats board at Pelican Trading](#stats-board-at-pelican-trading) |
+| Failure | Recognised how starting with unclear responsibilities contributed to duplicated work, frustration and burnout. | [Working with a content designer](#working-with-a-content-designer) |
+| Growth | Changed when he discusses ownership, pace and ways of working so the team can agree them up front. | [Working with a content designer](#working-with-a-content-designer) |
+| Feedback | Learned to find out why a research-backed proposal was rejected and follow up on what he did with the feedback. | [Leadership design review](#leadership-design-review) |
+| Pushback | Made the case for a research-backed decision, asking which risks mattered and what they meant for the business. | [Leadership design review](#leadership-design-review) |
+| Collaboration | Dedicated a day to agreeing shared working principles with a content designer, then ran workshops with wider partner teams. | [Working with a content designer](#working-with-a-content-designer) |
+| Ownership | Reset an inherited backlog, clarified the rationale for priorities, resequenced milestones and built stakeholder buy-in. | [AI-native pod at Meta](#ai-native-pod-at-meta) |
+| Quality | Used engineer office hours, lightweight design reviews and high-fidelity working prototypes to help others ship stronger work. | [AI-native pod at Meta](#ai-native-pod-at-meta) |
+| Motivation | Builds companion products that make real-world experiences better. He is drawn to contexts where place, movement and attention shape how people use a product. | [Real-world companion products](#real-world-companion-products) |
+
+### AI-native pod at Meta
+
+- **Situation** The pod was working to unblock advertiser revenue in two-week sprints. Jon inherited a backlog with gaps in the rationale and sequencing, and stakeholders had yet to buy into the direction. The team also needed time to explore bigger ideas and a way to review design quality before shipping.
+- **Action** Jon revisited the backlog, reordered milestones and used focused reviews to get stakeholders behind the direction. He set up design office hours so engineers could bring rough ideas, get feedback before shipping and challenge design decisions. He used high-fidelity working prototypes to explore bigger bets alongside sprint work and show stakeholders what those ideas would mean in practice.
+- **Impact** The team had clearer priorities, and engineers had a regular place to get design input. The short feedback loop helped improve the quality of sprint output.
+- **Learning** Small, regular opportunities to make decisions together can support both speed and craft.
+- **Change** Jon involves stakeholders earlier through weekly updates and focused reviews. He uses office hours and shareable prototypes to give colleagues more room to make and test decisions themselves.
+
+### Stats board at Pelican Trading
+
+- **Situation** The startup wanted to help people understand how well different traders performed. A charting package was beyond its budget.
+- **Action** Jon designed a stats board that presented meaningful performance measures in a simpler format. He treated it as the first milestone and defined the demand for more detailed data or visualisations as evidence for further investment.
+- **Impact** Traders asked for more metrics and charts, including data points that would show strengths the first version missed. Those requests gave the team evidence of demand and specific ideas for what to build next.
+- **Learning** You can test whether people value the information with a simple first release.
+- **Change** Jon now defines what the first milestone needs to prove and what would justify further investment. [Pelican Trading case study](https://jonparkinson.work/work/pelican-trading)
+
+### Working with a content designer
+
+- **Situation** Jon and a content designer started a project without explicitly agreeing who owned which decisions, how they would collaborate or what pace was sustainable. They duplicated effort, which contributed to frustration and burnout.
+- **Action** They set aside a day to agree shared principles, responsibilities and how they would communicate. Jon then ran workshops with wider partner teams to apply the approach.
+- **Impact** The pair clarified ownership, and the approach gave partner teams a way to discuss their own ways of working.
+- **Learning** Jon recognised that he had assumed they shared expectations about working together. Overlapping responsibilities and pace needed an explicit conversation.
+- **Change** Jon now agrees ownership, pace and ways of working up front and makes time to revisit them when the work changes.
+
+### Leadership design review
+
+- **Situation** Leadership rejected a design proposal that Jon had backed with research.
+- **Action** Jon defended the proposal by explaining the user evidence and design rationale. He questioned the risks raised in review and how they affected the business decision.
+- **Impact** The proposal stopped for its original audience. The direction later found a use with a different group of users.
+- **Learning** Strong user evidence deserves a clear defence. Understanding what drives a decision helps determine whether to keep making the case, adapt the idea or bring it back in a different context.
+- **Change** Jon asks what is behind the feedback, what risk it points to and what would change the decision. He follows up with reviewers so they can see how their feedback informed the next step.
+
+### Real-world companion products
+
+- **Situation** Jon is drawn to products people use while cooking, exploring or out in the world, where their attention is shared with a physical activity.
+- **Action** He designed Shuck It around a specific experience he cares about: finding somewhere good to eat seafood. He built a way to explore nearby places, save options for later and mark places he had visited.
+- **Impact** Shuck It reached TestFlight as a working way to explore seafood places around the UK.
+- **Learning** This example shows where Jon’s motivation comes from. A digital product can make a real-world decision or outing easier and more enjoyable.
+- **Change** Jon brings that interest to more complex, multisensory settings by asking what people are already doing, what else needs their attention and when digital information will help. [Shuck It case study](https://jonparkinson.work/work/shuck-it)
 
 ## What he’s looking for
 
